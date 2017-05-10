@@ -1,0 +1,26 @@
+{
+  "name": "js-2017-spring",
+  "version": "0.1.0",
+  "description": "A final project for the Spring 2017 JavaScript class",
+  "private": true,
+  "main": "check-args.js",
+  "bin": {
+    "check-args": "check-args.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexdrew/js-2017-spring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexdrew/js-2017-spring/issues"
+  },
+  "homepage": "https://github.com/nexdrew/js-2017-spring#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
